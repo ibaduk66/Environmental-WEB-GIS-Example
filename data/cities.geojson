@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [73.0479, 33.6844] }, "properties": { "name": "Islamabad", "province": "Islamabad Capital Territory", "type": "Capital City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [67.0011, 24.8607] }, "properties": { "name": "Karachi", "province": "Sindh", "type": "Major City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [74.3436, 31.5497] }, "properties": { "name": "Lahore", "province": "Punjab", "type": "Major City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [73.0790, 31.4180] }, "properties": { "name": "Faisalabad", "province": "Punjab", "type": "Major City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [73.0169, 33.5651] }, "properties": { "name": "Rawalpindi", "province": "Punjab", "type": "Major City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [71.5249, 30.1575] }, "properties": { "name": "Multan", "province": "Punjab", "type": "Major City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [71.5805, 34.0151] }, "properties": { "name": "Peshawar", "province": "Khyber Pakhtunkhwa", "type": "Major City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [66.9750, 30.1798] }, "properties": { "name": "Quetta", "province": "Balochistan", "type": "Major City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [74.5229, 32.4945] }, "properties": { "name": "Sialkot", "province": "Punjab", "type": "City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [74.1945, 32.1877] }, "properties": { "name": "Gujranwala", "province": "Punjab", "type": "City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [68.3578, 25.3960] }, "properties": { "name": "Hyderabad", "province": "Sindh", "type": "City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [68.8574, 27.7052] }, "properties": { "name": "Sukkur", "province": "Sindh", "type": "City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [71.6836, 29.3956] }, "properties": { "name": "Bahawalpur", "province": "Punjab", "type": "City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [72.6711, 32.0836] }, "properties": { "name": "Sargodha", "province": "Punjab", "type": "City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [73.2117, 34.1463] }, "properties": { "name": "Abbottabad", "province": "Khyber Pakhtunkhwa", "type": "City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [72.0403, 34.1989] }, "properties": { "name": "Mardan", "province": "Khyber Pakhtunkhwa", "type": "City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [73.4711, 34.3700] }, "properties": { "name": "Muzaffarabad", "province": "Azad Jammu & Kashmir", "type": "Capital City" } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [74.3144, 35.9208] }, "properties": { "name": "Gilgit", "province": "Gilgit-Baltistan", "type": "Capital City" } }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [73.0479, 33.6844] }, "properties": { "Name": "Islamabad", "Temperature": 28, "Rainfall": 5 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [74.3436, 31.5497] }, "properties": { "Name": "Lahore", "Temperature": 33, "Rainfall": 2 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [67.0011, 24.8607] }, "properties": { "Name": "Karachi", "Temperature": 31, "Rainfall": 0.5 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [71.5805, 34.0151] }, "properties": { "Name": "Peshawar", "Temperature": 30, "Rainfall": 3 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [66.9750, 30.1798] }, "properties": { "Name": "Quetta", "Temperature": 24, "Rainfall": 1 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [71.5249, 30.1575] }, "properties": { "Name": "Multan", "Temperature": 36, "Rainfall": 0.8 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [73.0790, 31.4180] }, "properties": { "Name": "Faisalabad", "Temperature": 34, "Rainfall": 2.5 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [74.5229, 32.4945] }, "properties": { "Name": "Sialkot", "Temperature": 29, "Rainfall": 4 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [68.3578, 25.3960] }, "properties": { "Name": "Hyderabad", "Temperature": 33, "Rainfall": 0.6 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [68.8574, 27.7052] }, "properties": { "Name": "Sukkur", "Temperature": 37, "Rainfall": 0.3 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [74.3144, 35.9208] }, "properties": { "Name": "Gilgit", "Temperature": 20, "Rainfall": 2 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [75.6333, 35.2971] }, "properties": { "Name": "Skardu", "Temperature": 15, "Rainfall": 1 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [73.3943, 33.9070] }, "properties": { "Name": "Murree", "Temperature": 18, "Rainfall": 7 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [71.7862, 35.8518] }, "properties": { "Name": "Chitral", "Temperature": 22, "Rainfall": 3 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [63.0480, 26.0044] }, "properties": { "Name": "Turbat", "Temperature": 35, "Rainfall": 0.4 } },
+    { "type": "Feature", "geometry": { "type": "Point", "coordinates": [62.3225, 25.1264] }, "properties": { "Name": "Gwadar", "Temperature": 29, "Rainfall": 0.2 } }
+  ]
+}

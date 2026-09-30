@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: rgb(34, 65, 19);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 15px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap: 18px;
+    position: relative;
+}
+
+header p{
+    margin: auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(136, 125, 42);
+}
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    line-height: 2;
+    display: block;
+}
+
+.header-logo {
+    position: absolute;
+    left: 30px;
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    align-items: end;
+}
+
+
+#map {
+    height: calc(100vh - 120px);
+    width: 100%;
+    display: block;
+}
+
+.leaflet-popup-content-wrapper {
+    background: #115923;
+    color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.35);
+}
+
+.leaflet-popup-content {
+    margin: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    line-height:2;
+}
+
+.leaflet-popup-tip {
+    background: #19351f;
+}
+
+.leaflet-popup-close-button {
+    color: rgb(0, 0, 0) !important;
+    font-size: 22px !important;
+}
